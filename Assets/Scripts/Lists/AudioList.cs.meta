@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 609afc16dc2975040bc51e6e7dbb4c41
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _chop: {fileID: 8300000, guid: b49aea21ee9d0864f8ea96c0cf5cf104, type: 3}
+  - _running: {fileID: 8300000, guid: e43b4e790d34e2145b35e650eb5ba93b, type: 3}
+  - _pickup: {fileID: 8300000, guid: f2cc0ed8f7028c14bafcf67aa487ac65, type: 3}
+  - _place: {fileID: 8300000, guid: 9081ef08c52bf1f47b07ccf67314996c, type: 3}
+  - _levelOneBackground: {fileID: 8300000, guid: 3f899893a2e5eb644b3a06a4d8edcd48,
+      type: 3}
+  - _titleScreenBackground: {fileID: 8300000, guid: 38858d5e7ef6a9243a6f20fdb577cb67,
+      type: 3}
+  - _endSceneBackground: {fileID: 8300000, guid: ded22cd09284f4f44979961ce7ef577d,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
